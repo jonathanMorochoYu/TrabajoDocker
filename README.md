@@ -54,7 +54,12 @@ y hacemos un pequeño cambio en los usuarios agregamos correo electronico para v
 
 <img width="474" height="194" alt="image" src="https://github.com/user-attachments/assets/d956c76a-7db5-4c98-9b14-866464bb3173" />
 
-y verificamos que la imagen docker creada este trabajando de forma correcta 
+y verificamos que estos cambios se vean reflejados en el localhost con el cual se esta trabajando 
+
+<img width="478" height="278" alt="image" src="https://github.com/user-attachments/assets/f429ba90-69f2-464f-88f1-f6b9d0d53e01" />
+
+
+verificamos que la imagen docker creada este trabajando de forma correcta 
 
 <img width="1086" height="397" alt="image" src="https://github.com/user-attachments/assets/74aaddf7-35d6-4857-9030-ad3013509b25" />
 
