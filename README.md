@@ -22,9 +22,13 @@ verificamos la base de datos creada
 <img width="317" height="166" alt="image" src="https://github.com/user-attachments/assets/935839a2-6677-4ff1-a785-692458164d39" />
 
 Una vez realizado estos pasos lo que tenemos que hacer es la conexion y comunicacion con la base de datos donde vamos a crear las tablas en cuestion 
+
 1 accedemos al directorio del proyecto 
+
 2 levantamos los contenedores con docker compose up
+
 3 accedemos al contenedor mysql docker exec -it microserviciousu-db-1 mysql -u root -p
+
 4 Dentro del contenedor, se creó la base y la tabla usuarios 
 
 
@@ -33,6 +37,7 @@ Una vez realizado estos pasos lo que tenemos que hacer es la conexion y comunica
 
 
 5 Finalmente, se probó el microservicio en el navegador y Funciona correctamente. 
+
 
 <img width="423" height="57" alt="image" src="https://github.com/user-attachments/assets/d7c1058a-a480-4e88-b42a-e66cecf3903c" />
 
