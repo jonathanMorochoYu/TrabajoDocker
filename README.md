@@ -64,4 +64,6 @@ verificamos que la imagen docker creada este trabajando de forma correcta
 <img width="1086" height="397" alt="image" src="https://github.com/user-attachments/assets/74aaddf7-35d6-4857-9030-ad3013509b25" />
 
 
+Conclusion: 
 
+Al usar la herramienta como Docker Compose son importantes para simplificar esta complejidad de trabajo, permitiéndonos definir lo que necesitamos, orquestar y validar toda la arquitectura distribuida de forma eficiente en nuestros entornos permitiendo asi una solucion mas rapida y concreta para el trabajo.
